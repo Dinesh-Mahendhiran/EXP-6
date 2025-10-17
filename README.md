@@ -15,6 +15,7 @@ CIRCUIT DIAGRAM
 <img width="703" height="820" alt="image" src="https://github.com/user-attachments/assets/1aaadb19-2e23-4d44-b8f4-6d5e2df329c2" />
 
 Graph:
+
 <img width="780" height="837" alt="image" src="https://github.com/user-attachments/assets/c0a6f44d-ff39-4d3c-ab61-faafedb110e2" />
 
 PROCEDURE: -

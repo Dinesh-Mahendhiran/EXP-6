@@ -11,6 +11,7 @@ DIAGRAM:
 <img width="1491" height="830" alt="image" src="https://github.com/user-attachments/assets/3a9bee5d-c5c8-4630-9ce4-00de439ada8d" />
 
 CIRCUIT DIAGRAM
+
 <img width="703" height="820" alt="image" src="https://github.com/user-attachments/assets/1aaadb19-2e23-4d44-b8f4-6d5e2df329c2" />
 
 Graph:
